@@ -16,6 +16,7 @@
 - 配套视频讲解，[B站视频](https://www.bilibili.com/video/BV1qWwke5E3K)
 - 配套镜像 GPU，用于模型的训练，有演示和展示 Demo
 - 最小使用 3090，4090 即可训练~
+- 完全从零训练的 miniLLM 可以参考个人仓库 [BitBrain——比特大脑](https://github.com/bbruceyuan/bit-brain) 获取可以体验的 demo，欢迎体验学习～
 
 > 大家可以用我的 [AIStackDC 注册链接](https://aistackdc.com/phone-register?invite_code=D872A9)获得额外的 GPU 优惠券，2 张 1 折优惠券（4 小时）和 3 张 8 折优惠券（8 小时）。
 
