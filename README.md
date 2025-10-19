@@ -5,6 +5,11 @@
 
 开个新坑，从无名小卒到大模型（LLM）大英雄~ 欢迎关注[B站后续更新](https://space.bilibili.com/12420432)！！！
 
+目前(2025-10-19)已经**开始在写自己的书籍**了，欢迎大家跟踪[公众号--chaofa用代码打点酱油](https://bruceyuan.com/llms-zero-to-hero/chaofa-wechat-official-account.png)追踪更新～
+
+当然也可以在 个人 [blog——yuanchaofa.com](https://yuanchaofa.com) 获取到全部内容
+
+
 ## 特点
 - 完全从零手写，边写边讲知识点，致敬 Andrej Karpathy
 - 体系化，具有完整的实践路线
@@ -37,6 +42,7 @@
 | LLM MOE 的进化之路 | [LLM MOE的进化之路，从普通简化 MOE，到 sparse_moe，再到 deepseek 使用的 share_expert_sparse_moe](https://bruceyuan.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html) | [![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_moe_model.ipynb) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1ZbFpeHEYr)](https://www.bilibili.com/video/BV1ZbFpeHEYr/)<br /> [![Youtube](https://img.shields.io/youtube/views/0BodppoiloM)](https://www.youtube.com/watch?v=0BodppoiloM) | 
 | DeepSeek-MLA 算法-无矩阵吸收 | [Part1: 从代码角度学习和彻底理解 DeepSeek MLA 算法](https://bruceyuan.com/post/hands-on-deepseek-mla.html)</br></br> [自顶向下方式深度解读 DeepSeek-R1，内含大量细节](https://bruceyuan.com/post/deepseek-r1-paper-reading-notes.html) |[![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/deepseek-mla-part1.ipynb)| [![bilibili-矩阵吸收](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV19aP1epEUc)](https://www.bilibili.com/video/BV19aP1epEUc/)<br /> [![Youtube-无矩阵吸收](https://img.shields.io/youtube/views/3SsAgBJuVvg)](https://www.youtube.com/watch?v=3SsAgBJuVvg) |
 | DeepSeek-MLA 算法-矩阵吸收版 | [Part2: 从代码和公式角度理解 DeepSeek MLA 的矩阵吸收 (Projection Absorption)](https://bruceyuan.com/post/hands-on-deepseek-mla-projection-absorption.html)</br> |[![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/deepseek-mla-part2.ipynb)| [![bilibili-矩阵吸收](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1wjQvY6Enm)](https://www.bilibili.com/video/BV1wjQvY6Enm/)<br /> |
+| 从零实现 GRPO (Agent RL），用于 Agentic RAG 训练 | [RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG](https://yuanchaofa.com/post/from-native-rag-to-agentic-rag.html) |[![中文可运行 Notebook](https://img.shields.io/badge/python-code%E5%B9%B3%E5%8F%B0-pink)](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN/tree/master/chapter08) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1yX4aznE9s)](https://www.bilibili.com/video/BV1yX4aznE9s/)<br />[![Youtube](https://img.shields.io/youtube/views/TLDj0Cob_jk?style=social)](https://www.youtube.com/watch?v=TLDj0Cob_jk) |
 | 激活函数优化| [LLM activate function激活函数的进化之路，从 ReLU，GELU 到 swishGLU](https://bruceyuan.com/llms-zero-to-hero/activate-function-from-relu-gelu-to-swishglu.html) | todo | todo | 
 
 
