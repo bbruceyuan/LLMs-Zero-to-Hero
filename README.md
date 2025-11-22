@@ -18,7 +18,7 @@
 - 最小使用 3090，4090 即可训练~
 - 完全从零训练的 miniLLM 可以参考个人仓库 [BitBrain——比特大脑](https://github.com/bbruceyuan/bit-brain) 获取可以体验的 demo，欢迎体验学习～
 
-> 大家可以用我的 [AIStackDC 注册链接](https://aistackdc.com/phone-register?invite_code=D872A9)获得额外的 GPU 优惠券，2 张 1 折优惠券（4 小时）和 3 张 8 折优惠券（8 小时）。
+> 大家可以用我的 [Featurize 注册链接](https://featurize.cn/srx/gthYt2)获得额外的 GPU 优惠券，仅 9.9 元可使用满血 RTX 4090 24 小时。
 
 ## 目录
 - 大模型基础，介绍大模型训练的流程
