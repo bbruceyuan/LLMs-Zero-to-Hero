@@ -3,6 +3,13 @@
 <h4 align="right">从大模型无名小卒到LLM大师</h4>
 </p>
 
+<p align="center">
+  <a href="https://apecode.ai/zh"><img src="https://img.shields.io/badge/🦧_ApeCode.ai-AI_Tools_&_Learning-orange?style=flat-square" alt="ApeCode.ai"/></a>
+  <a href="https://apecode.ai/zh/products/aperouter"><img src="https://img.shields.io/badge/🔗_ApeRouter-LLM_API_Proxy-blue?style=flat-square" alt="ApeRouter"/></a>
+  <a href="https://yuanchaofa.com"><img src="https://img.shields.io/badge/📝_Blog-yuanchaofa.com-pink?style=flat-square" alt="Blog"/></a>
+  <a href="https://space.bilibili.com/12420432"><img src="https://img.shields.io/badge/🎬_Bilibili-chaofa-ff69b4?style=flat-square" alt="Bilibili"/></a>
+</p>
+
 开个新坑，从无名小卒到大模型（LLM）大英雄~ 欢迎关注[B站后续更新](https://space.bilibili.com/12420432)！！！
 
 目前(2025-10-19)已经**开始在写自己的书籍**了，欢迎大家跟踪[公众号--chaofa用代码打点酱油](https://bruceyuan.com/llms-zero-to-hero/chaofa-wechat-official-account.png)追踪更新～
@@ -19,6 +26,9 @@
 - 完全从零训练的 miniLLM 可以参考个人仓库 [BitBrain——比特大脑](https://github.com/bbruceyuan/bit-brain) 获取可以体验的 demo，欢迎体验学习～
 
 > 大家可以用我的 [Featurize 注册链接](https://featurize.cn/srx/gthYt2)获得额外的 GPU 优惠券，仅 9.9 元可使用满血 RTX 4090 24 小时。
+
+> [!TIP]
+> 🦧 跑代码需要 LLM API？试试我做的 [ApeRouter](https://apecode.ai/zh/products/aperouter) — 国内直连的 LLM API 路由，支持 Claude / GPT / Kimi 等模型，无需翻墙。更多 AI 学习资源和开发工具：[ApeCode.ai](https://apecode.ai/zh)
 
 ## 目录
 - 大模型基础，介绍大模型训练的流程
@@ -90,6 +100,14 @@
 
 
 > 最后欢迎大家使用 [AIStackDC](https://aistackdc.com/phone-register?invite_code=D872A9) 算力平台，主打一个便宜方便（有专门的客服支持），如果你需要的话可以使用我的邀请链接: [https://aistackdc.com/phone-register?invite_code=D872A9](https://aistackdc.com/phone-register?invite_code=D872A9)
+
+## 🦧 More from the Author
+
+- 🌐 **[ApeCode.ai](https://apecode.ai/zh)** — AI 编程工具与学习平台
+- 🔗 **[ApeRouter](https://apecode.ai/zh/products/aperouter)** — 国内直连的 LLM API 路由，支持 Claude / GPT / Kimi
+- 📝 **[yuanchaofa.com](https://yuanchaofa.com)** — 技术博客：LLM / Agent / 深度学习
+- 🎬 **[B站](https://space.bilibili.com/12420432) / [YouTube](https://www.youtube.com/@bbruceyuan)** — 视频教程
+- 💬 微信：`bbruceyuan`（请备注来意）
 
 ## Star History
 
