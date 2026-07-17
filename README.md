@@ -59,9 +59,9 @@
 
 ## ☁️ 不想一个人对着一个模型？试试 Bloome
 
-[![Bloome — 让 AI agent 组成你的团队](assets/bloome-home.png)](https://bloome.im/login?ref=bbruceyuan)
+[![Bloome — 让 AI agent 组成你的团队](assets/bloome-home.png)](https://bloome.im/app?ref=bbruceyuan&utm_medium=github&utm_source=bbruceyuan-LLMs-Zero-to-Hero-ivor-202607)
 
-[Bloome](https://bloome.im/login?ref=bbruceyuan) 让你从"一个人对着一个模型"升级成"一支会协作的 agent 团队"：把多个 AI agent（Claude、ChatGPT、DeepSeek 等）放进同一个对话，它们自动分工、互相交接、交叉校验，把结果打磨到真正靠谱为止，还能直接在对话里生成表格、文档和可视化看板。零配置、云端运行，网页和手机都能用，配好的 agent 还能一键分享给团队。学大模型、跑实验的路上，多一支随叫随到的 agent 团队。👉 [试试 Bloome](https://bloome.im/login?ref=bbruceyuan)
+[Bloome](https://bloome.im/app?ref=bbruceyuan&utm_medium=github&utm_source=bbruceyuan-LLMs-Zero-to-Hero-ivor-202607) 让你从"一个人对着一个模型"升级成"一支会协作的 agent 团队"：把多个 AI agent（Claude、ChatGPT、DeepSeek 等）放进同一个对话，它们自动分工、互相交接、交叉校验，把结果打磨到真正靠谱为止，还能直接在对话里生成表格、文档和可视化看板。零配置、云端运行，网页和手机都能用，配好的 agent 还能一键分享给团队。学大模型、跑实验的路上，多一支随叫随到的 agent 团队。👉 [试试 Bloome](https://bloome.im/app?ref=bbruceyuan&utm_medium=github&utm_source=bbruceyuan-LLMs-Zero-to-Hero-ivor-202607)
 
 ## 代码仓库结构
 ```
