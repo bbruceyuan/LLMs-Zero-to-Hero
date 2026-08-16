@@ -117,4 +117,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bbruceyuan/LLMs-Zero-to-Hero&type=Date)](https://star-history.com/#bbruceyuan/LLMs-Zero-to-Hero&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=bbruceyuan/LLMs-Zero-to-Hero&type=Date)](https://star-history.dera.page/#bbruceyuan/LLMs-Zero-to-Hero&type=Date)
